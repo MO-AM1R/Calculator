@@ -19,7 +19,7 @@ To run the Calculator locally, follow these steps:
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/CodSoft.git
+   git clone https://github.com/MO-AM1R/Calculator
    ```
    
 2. Open the `index.html` file in your web browser to use the Calculator.
