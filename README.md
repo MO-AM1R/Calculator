@@ -6,6 +6,11 @@ This repository contains the code for the **Calculator** web application, which 
 
 The Calculator project is a simple web application that provides a user-friendly interface for performing arithmetic operations such as addition, subtraction, multiplication, and division. It's designed to be easy to use and efficient for quick calculations.
 
+## Table of Contents
+- [Overview](#overview)
+- [Installation](#installation)
+- [Usage](#usage)
+
 ## Installation
 
 To run the Calculator locally, follow these steps:
